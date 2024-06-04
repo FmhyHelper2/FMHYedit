@@ -548,7 +548,6 @@
 * [FilmFans](https://filmfans.org/) - Movies / 4K
 * [WorldFree4u](https://worldfree4u.wf/) - Movies / 1080p
 * [SSR Movies](https://ssrmovies.meme/) - Movies / TV / 1080p
-* [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV / 1080p
 * [SeriezLoaded NG](https://www.seriezloaded.com.ng/) - Movies / TV / 1080p
 * [ShareMania](https://sharemania.us/) - Movies / TV / 4K
 * [Google Drive Movies](https://databasegdriveplayer.co/movie.php), [TV](https://databasegdriveplayer.co/series.php), [Anime](https://databasegdriveplayer.co/anime.php), [KDrama](https://databasegdriveplayer.co/drama.php) - Movies / TV / Anime / 720p
